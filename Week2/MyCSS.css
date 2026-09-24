@@ -1,7 +1,7 @@
 /* Always remember that form, gow it looks, goes here, and functionality goes in the .html file. */
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 2rem;
 }
